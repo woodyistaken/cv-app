@@ -1,0 +1,13 @@
+p{
+  text-align:left;  
+}
+input{
+  text-align:left;
+}
+label{
+  text-align: left;
+}
+.text{
+  display:flex;
+  flex-direction: row;
+}
